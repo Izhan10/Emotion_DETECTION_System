@@ -1,0 +1,6 @@
+src/__pycache__/
+*.pyc
+src/data/fer2013.csv
+src/data/
+src/model.h5
+src/res10_300x300_ssd_iter_140000.caffemodel
